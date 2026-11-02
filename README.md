@@ -1,4 +1,4 @@
-# netflix-india-clone
+
 # Netflix India Clone
 
 This is my first frontend development project, built using **HTML5 and CSS3**.
