@@ -7,7 +7,7 @@ The project recreates the Netflix India website design, inspired by its 2026 int
 
 ## Live Demo
 
-[View Netflix India Clone]
+View Netflix India Clone:https://omgarde09-debug.github.io/netflix-india-clone/
 
 
 
@@ -47,4 +47,4 @@ All rights to Netflix branding, logos, and content belong to Netflix, Inc. This 
 **Om Garde**
 
 - GitHub Profile: [omgarde09-debug](https://github.com/omgarde09-debug)
-- Project Repository: [Netflix India Clone]
+- Project Repository: [Netflix India Clone https://omgarde09-debug.github.io/netflix-india-clone/]
